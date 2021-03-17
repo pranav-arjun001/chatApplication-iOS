@@ -1,5 +1,3 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
-
 # Flash-Chat
 
 ## Our Goal
@@ -27,7 +25,7 @@ Flash Chat is an internet based messaging app similar to WhatsApp, the popular m
 
 # Constants
 ```
-struct K {
+struct Constants {
     static let cellIdentifier = "ReusableCell"
     static let cellNibName = "MessageCell"
     static let registerSegue = "RegisterToChat"
@@ -49,7 +47,5 @@ struct K {
 }
 
 ```
-
->This is a companion project to The App Brewery's Complete App Developement Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
 ![End Banner](Documentation/readme-end-banner.png)
